@@ -26,4 +26,5 @@ curl -fLo "Package Control.sublime-settings" https://raw.githubusercontent.com/l
 
 
 curl -O https://raw.githubusercontent.com/lifeparticle/Cosmic-Sublime/master/Preferences.sublime-settings
+curl -fLo "Default (OSX).sublime-keymap" https://raw.githubusercontent.com/lifeparticle/Cosmic-Sublime/master/Default%20(OSX).sublime-keymap
 ```
