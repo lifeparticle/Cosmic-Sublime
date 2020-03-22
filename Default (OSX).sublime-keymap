@@ -1,0 +1,5 @@
+[
+	{"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}},
+	{ "keys": ["super+k", "super+t"], "command": "title_case" },
+	{ "keys": ["super+shift+d"], "command": "dash_doc"}
+]
