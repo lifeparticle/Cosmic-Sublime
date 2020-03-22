@@ -12,6 +12,8 @@ or install [Sublime Text](https://www.sublimetext.com/)
 brew cask install sublime-text
 ````
 
+## Install
+
 1. Install Package Control
 ```
 # open sublime
@@ -38,3 +40,12 @@ curl -O https://raw.githubusercontent.com/lifeparticle/Cosmic-Sublime/master/Pre
 ```
 curl -fLo "Default (OSX).sublime-keymap" https://raw.githubusercontent.com/lifeparticle/Cosmic-Sublime/master/Default%20(OSX).sublime-keymap
 ```
+
+## Bug Reports and Feature Requests
+Please create an issue with as much information you can. Thank you.
+
+## Author
+Mahbub Zaman (https://mahbub.ninja)
+
+## License
+MIT License
