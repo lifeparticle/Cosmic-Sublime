@@ -13,12 +13,17 @@ brew cask install sublime-text
 ````
 
 ```
+# open sublime
+subl
 cd $HOME/Library/Application\ Support/Sublime\ Text\ 3/Installed\ Packages
 curl -O https://packagecontrol.io/Package\ Control.sublime-package
+# close sublime
 
-open sublime, wait and close
+# open sublime, wait till everything is installed
+# View progress from view > show console
 cd $HOME/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
+curl -fLo "Package Control.sublime-settings" https://raw.githubusercontent.com/lifeparticle/Cosmic-Sublime/master/Package%20Control.sublime-settings
 
-curl -O https://raw.githubusercontent.com/lifeparticle/Cosmic-Sublime/master/Package%20Control.sublime-settings
+
 curl -O https://raw.githubusercontent.com/lifeparticle/Cosmic-Sublime/master/Preferences.sublime-settings
 ```
