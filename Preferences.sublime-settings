@@ -1,0 +1,29 @@
+{
+	"alignment_chars":
+	[
+		"=",
+		":",
+		"=>"
+	],
+	"auto_complete": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_face": "courier new",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"AutoFileName",
+		"Vintage",
+		"zzz A File Icon zzz"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 0,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}

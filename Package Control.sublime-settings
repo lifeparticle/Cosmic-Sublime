@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AngularJS",
+		"AutoFileName",
+		"Babel",
+		"Compare Side-By-Side",
+		"DashDoc",
+		"ImagePreview",
+		"Material Theme",
+		"Minify",
+		"Package Control",
+		"Pretty JSON",
+		"PxToEm",
+		"Ruby Debugger",
+		"Sass",
+		"SideBarEnhancements",
+		"sublimelint"
+	]
+}
