@@ -25,10 +25,10 @@ curl -O https://packagecontrol.io/Package\ Control.sublime-package
 
 2. Install List of Packages
 ```
-# open sublime, wait till everything is installed
-# View progress from view > show console
 cd $HOME/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
 curl -fLo "Package Control.sublime-settings" https://raw.githubusercontent.com/lifeparticle/Cosmic-Sublime/master/Package%20Control.sublime-settings
+# open sublime, wait till everything is installed
+# View progress from view > show console
 ```
 
 3. Load your Preferences > Settings
