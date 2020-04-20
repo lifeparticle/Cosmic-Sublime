@@ -21,6 +21,7 @@
 		"Ruby Debugger",
 		"Sass",
 		"SideBarEnhancements",
-		"sublimelint"
+		"sublimelint",
+		"MarkdownPreview"
 	]
 }
