@@ -25,5 +25,6 @@
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"theme": "Material-Theme-Darker.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"show_encoding": true
 }
